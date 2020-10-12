@@ -3,9 +3,11 @@
 [![mail: vaishnav.parte@gmail.com](https://img.shields.io/badge/mail-vaishnav.parte%20at%20gmail%20dot%20com-red)](mailto://vaishnav.parte@gmail.com)
 ### Graduation Year : 2021 
 ### Bsc IT Student
+
 <br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <br/> 
+
 ## Abstract
 I am a Software engineer, software engineer by profession and an engineer at heart.
 - 🔭 I’m currently working on Multiple Projects
