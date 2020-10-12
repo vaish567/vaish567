@@ -19,8 +19,12 @@
 <img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320">
 
 ### Stats :
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=vaish567&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=B22222&bg_color=000000">
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vaish567&show_icons=true&theme=vision-friendly-dark" alt="abhisheknaiidu" />
+
+</details>
 
 ### Languages & Framework:
 <br/>
@@ -33,9 +37,20 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br />
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<br/>
 
-***Online Profiles: ***
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   7 hrs 46 mins   █████████████▓░░░░░░░░░░░   50.03 % 
+C++          5 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   39.82 % 
+Python       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+```
+<!--END_SECTION:waka-->
+
+**Online Profiles: **
 
 [![Linkedin: vaishnav](https://img.shields.io/badge/-vaishnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnav/)](https://www.linkedin.com/in/vaishnav-parte/)
 [![GitHub vaish567](https://img.shields.io/github/followers/vaish567?label=follow&style=social)](https://github.com/vaish567)
