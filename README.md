@@ -34,7 +34,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Online Profiles :
+***Online Profiles: ***
 <br/>
 [![Linkedin: vaishnav](https://img.shields.io/badge/-vaishnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnav/)](https://www.linkedin.com/in/vaishnav-parte/)
 [![GitHub vaish567](https://img.shields.io/github/followers/vaish567?label=follow&style=social)](https://github.com/vaish567)
