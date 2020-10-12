@@ -6,7 +6,7 @@
 <br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## Abstract
+**Abstract: **
 I am a Software engineer, software engineer by profession and an engineer at heart.
 - 🔭 I’m currently working on Multiple Projects
 - 🌱 I’m currently learning web technologies 
