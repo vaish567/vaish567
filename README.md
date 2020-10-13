@@ -50,7 +50,7 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-**Online Profiles: **
+### Online Profiles: 
 
 [![Linkedin: vaishnav](https://img.shields.io/badge/-vaishnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnav/)](https://www.linkedin.com/in/vaishnav-parte/)
 [![GitHub vaish567](https://img.shields.io/github/followers/vaish567?label=follow&style=social)](https://github.com/vaish567)
