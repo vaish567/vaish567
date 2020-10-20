@@ -16,7 +16,7 @@
 ### Graduation Year : 2021 
 ### Education : Final Year Bsc IT 
 
-<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320">
+<img align="center" src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif" width="500" height="320">
 
 ### Stats :
 <details>
