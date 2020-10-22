@@ -1,4 +1,4 @@
-## Hello, I'm [Vaishnav!](https://https://github.com/vaish567) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, I'm [Vaishnav](https://https://github.com/vaish567) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![status: unbooked](https://img.shields.io/badge/status-unbooked-brightgreen)
 [![mail: vaishnav.parte@gmail.com](https://img.shields.io/badge/mail-vaishnav.parte%20at%20gmail%20dot%20com-red)](mailto://vaishnav.parte@gmail.com)
