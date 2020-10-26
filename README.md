@@ -16,13 +16,13 @@
 ### Graduation Year : 2021 
 ### Education : Final Year Bsc IT 
 
-<img align="center" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="500" height="320">
+<img align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" height="320">
 
 ### Stats :
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vaish567&show_icons=true&theme=vision-friendly-dark" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vaish567&show_icons=true&theme=vision-friendly-dark" alt="vaishnav-parte" />
 
 </details>
 
