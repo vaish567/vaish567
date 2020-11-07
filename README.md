@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Multiple Projects
 - 🌱 I’m currently learning web technologies 
 - 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about Web Technologies Stuff
+- 💬 Ask me about Web Technologies.
 - 📫 How to reach me: [LinkedIn - @vaishnav](https://www.linkedin.com/in/vaishnav-parte-ba2343142/) [Gmail - @vaishnav.parte@gmail.com]()
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The best method for accelerating a computer is the one that boosts it by 9.8 m/s
