@@ -13,7 +13,7 @@
 - ⚡ Fun fact: The best method for accelerating a computer is the one that boosts it by 9.8 m/s
 
 ### Graduation Year : 2021 
-### Education : Bachelor's of Science in Information Technology 
+### Education : Bachelor's of Information Technology 
 
 <img align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" height="320">
 
