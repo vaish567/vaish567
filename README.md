@@ -17,13 +17,6 @@
 
 <img align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" height="320">
 
-### Stats :
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vaish567&show_icons=true&theme=vision-friendly-dark" alt="vaishnav-parte" />
-
-</details>
 
 ### Tech-Stack:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -40,15 +33,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <br/>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript  7 hrs 46 mins   █████████████▓░░░░░░░░░░░   50.03 % 
-NodeJs      5 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   39.82 % 
-React.js    41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Vue.js      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-```
-<!--END_SECTION:waka-->
+
 
 ### Online Profiles: 
 
