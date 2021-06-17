@@ -12,7 +12,6 @@
 - ⚡ Fun fact: The best method for accelerating a computer is the one that boosts it by 9.8 m/s.
 - Checkout my [Website- datatype](https://datatype.netlify.app/)
 
-### Graduation Year : 2021 
 ### Education : Bachelor's in Information Technology 
 
 <img align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" height="320">
