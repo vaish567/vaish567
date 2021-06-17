@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about Web Technologies.
 - 📫 How to reach me: [LinkedIn - @vaishnav](https://www.linkedin.com/in/vaishnav-parte-ba2343142/) [Gmail - @vaishnav.parte@gmail.com]()
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: The best method for accelerating a computer is the one that boosts it by 9.8 m/s
+- ⚡ Fun fact: The best method for accelerating a computer is the one that boosts it by 9.8 m/s.
+- Checkout my [Website- datatype](https://datatype.netlify.app/)
 
 ### Graduation Year : 2021 
 ### Education : Bachelor's in Information Technology 
