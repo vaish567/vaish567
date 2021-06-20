@@ -3,18 +3,8 @@
 [![mail: vaishnav.parte@gmail.com](https://img.shields.io/badge/mail-vaishnav.parte%20at%20gmail%20dot%20com-red)](mailto://vaishnav.parte@gmail.com)
 
 ## Introduction :
-### I have always found that plans are useless, but planning is indispensable.
-- 🔭 I’m currently working on Multiple Projects
-- 🌱 I’m currently learning web technologies 
-- 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about Web Technologies.
-- 📫 How to reach me: [LinkedIn - @vaishnav](https://www.linkedin.com/in/vaishnav-parte-ba2343142/) [Gmail - @vaishnav.parte@gmail.com]()
-- ⚡ Fun fact: The best method for accelerating a computer is the one that boosts it by 9.8 m/s.
+- Hello users, My name is Vaishnav Parte and I'm Full-Stack JavaScript Developer. I've been developing for 2 Years. Recently, I got graduated with Bachelor's degree in Information Technology.I'm more passionate about web technologies, cosmo & quantum physics.
 - Checkout my [Website- datatype](https://datatype.netlify.app/)
-
-### Education : Bachelor's in Information Technology 
-
-<img align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" height="320">
 
 
 ### Tech-Stack:
