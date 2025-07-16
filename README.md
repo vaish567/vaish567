@@ -43,7 +43,6 @@ I'm a passionate frontend developer with **4+ years of experience**, focused on 
 
 - 🎯 Freelancing at **Innovative Cursor**
 - ⚙️ Leading frontend team at **Myzow Solutions**
-- 🛒 Building eCommerce & dashboard solutions for **Kloud Pharma (Philippines)**
 - 🔄 Rebuilding core banking UI for **Finacus** using Material UI & React.js
 
 ---
