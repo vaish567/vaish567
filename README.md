@@ -54,7 +54,6 @@ If you're building a dashboard, a marketing website, or a full-stack platform—
 📫 **Reach Me:**  
 [📧 vaishnav.parte@gmail.com](mailto:vaishnav.parte@gmail.com)  
 🌐 [innovativecursor.com](https://innovativecursor.com)  
-📱 WhatsApp: +91-8928027439
 
 ---
 
