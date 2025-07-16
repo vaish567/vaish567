@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaishnav Parte
 
-🎯 **Frontend Developer | React.js Specialist | UI/UX Collaborator | Learning Go**
+🎯 **Frontend Developer | UI/UX Collaborator | Learning Go**
 
 I'm a passionate frontend developer with **4+ years of experience**, focused on building high-performance web applications using modern technologies.
 
